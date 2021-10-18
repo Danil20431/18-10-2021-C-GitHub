@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 using namespace std;
 
@@ -6,6 +6,6 @@ int main()
 {
 	setlocale(LC_ALL, "Rus");
 	cout << "Hello Git";
-	// Ïðèâåò Âàñÿ"
+	// ÐŸÑ€Ð¸Ð²ÐµÑ‚ Ð’Ð°ÑÑ"
 		return 0;
 }
